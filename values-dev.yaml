@@ -1,0 +1,8 @@
+namespace: dev
+
+configmap:
+  data:
+    AppVersion: 1.0.1
+    Environment: Dev
+
+targetPort: 30082

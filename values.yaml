@@ -1,0 +1,8 @@
+appName: myhelmapp
+
+configmap:
+  name: helmappconfigmap1.1
+
+image:
+  name: nginx
+  tag: latest
